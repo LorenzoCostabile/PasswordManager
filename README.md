@@ -16,7 +16,7 @@ thank you for passing by,
 Lorenzo Costábile Domínguez.
 
 
-##RESOURCES that I found:
+## RESOURCES that I found:
 
 How NOT to store passwords. Computerphile, Tom Scott: https://www.youtube.com/watch?v=8ZtInClXe1Q
 How password managers work. Computerphile, Dr Mike Pound: https://www.youtube.com/watch?v=w68BBPDAWr8
